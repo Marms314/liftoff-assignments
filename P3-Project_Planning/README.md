@@ -8,12 +8,16 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+* [Category Index Page](category-index-page.jpg)
+* [Create Category Page](create-category-page.jpg)
+* [Delete/Manage Category Page](delete-category-page.jpg)
+* [User Profile Page](profile-page.jpg)
+* [User Signup Page](signup-page.jpg)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Trello Board](https://trello.com/b/Ni6X0WYH/studytime)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[GitHub Repo](https://github.com/Marms314/Study-App)
