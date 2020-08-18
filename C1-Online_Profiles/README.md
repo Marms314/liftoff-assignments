@@ -13,6 +13,6 @@ For this assignment you will need to upload your resume and provide links to you
 [LinkedIn](https://www.linkedin.com/in/maryarmstrong314/)
 
 ### Resume
-[Google Doc](https://docs.google.com/document/d/1-NUgjI6NBVvxV2JillZ0MBk3NErZAW1uoYyqH0fxv08/edit?usp=sharing)
+I'm not comfortable leaving my resume on this repository
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
