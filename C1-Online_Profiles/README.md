@@ -7,12 +7,12 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+[GitHub](https://github.com/Marms314)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[LinkedIn](https://www.linkedin.com/in/maryarmstrong314/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+[Google Doc](https://docs.google.com/document/d/1-NUgjI6NBVvxV2JillZ0MBk3NErZAW1uoYyqH0fxv08/edit?usp=sharing)
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
